@@ -213,7 +213,9 @@ button:hover {
     z-index: 10;
 }
 
-.main-header h1 {
+
+
+.main-header h2 {
     font-size: 2.8rem;
     font-weight: 800;
     letter-spacing: 2px;
@@ -223,7 +225,7 @@ button:hover {
     text-shadow:
         0 0 12px rgba(255,122,47,.7),
         0 0 30px rgba(255,122,47,.4);
-}
+} 
 /* =======================
    CAMPUS WRAPPER
 ======================= */
