@@ -19,3 +19,6 @@ Aplicación web creada con:
 python -m venv venv
 source venv/bin/activate   # Linux/mac
 venv\Scripts\activate      # Windows
+
+```ejecutar
+python app.py
