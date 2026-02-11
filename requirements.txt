@@ -3,5 +3,7 @@ psycopg2-binary
 python-dotenv
 werkzeug
 
+#dependencia para despliegue en runway (va unico al archivo procfile)
+gunicorn<=20.0.4
 
 #pip install -r requirements.txt
